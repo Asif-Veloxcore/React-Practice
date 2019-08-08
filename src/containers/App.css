@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+.box-eff
+{
+  width: 300px;
+  height: 150px;
+  padding: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.red
+{
+  color:crimson;
+}
+.another-eff
+{
+  background-color: aqua;
+}
+.button {
+  padding: 15px 25px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-bottom: 25px;
+  cursor: pointer;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.PersonEffect1
+{
+  color: brown;
+  cursor: pointer;
+}
+.PersonEffect2
+{
+  color: aqua;
+  cursor: pointer;
+}
+.PersonEffect3
+{
+  color:darkblue;
+  cursor: pointer;
+}
+.PersonEffect4
+{
+  color:darkgrey;
+  cursor: pointer;
+}
